@@ -3,13 +3,13 @@
 		"message": "标签页列表"
 	},
 	"extensionDescription": {
-		"message": "自由分类已打开的标签页并通过标签列表快速切换标签。"
+		"message": "自由分类已打开的标签页并通过标签页列表快速切换标签。"
 	},
 	"browserActionTitle": {
-		"message": "打开标签列表"
+		"message": "打开标签页列表"
 	},
 	"newListName": {
-		"message": "新列表"
+		"message": "添加列表"
 	},
 	"addTabButton": {
 		"message": "添加标签页"
@@ -48,13 +48,13 @@
 		"message": "重置"
 	},
 	"configItemWordWrap": {
-		"message": "显示完整的标签页名称"
+		"message": "显示完整的标签页标题"
 	},
 	"configItemOldTabBefore": {
 		"message": ""
 	},
 	"configItemOldTabAfter": {
-		"message": "没访问的标签背景设置为深灰色"
+		"message": "内未访问的标签背景设置为深灰色"
 	},
 	"configItemOldTabTerm1": {
 		"message": "1小时"
