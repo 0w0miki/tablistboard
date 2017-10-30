@@ -1,0 +1,101 @@
+{
+	"extensionName": {
+		"message": "标签页列表"
+	},
+	"extensionDescription": {
+		"message": "自由分类已打开的标签页并通过标签列表快速切换标签。"
+	},
+	"browserActionTitle": {
+		"message": "打开标签列表"
+	},
+	"newListName": {
+		"message": "新列表"
+	},
+	"addTabButton": {
+		"message": "添加标签页"
+	},
+	"removeListButton": {
+		"message": "移除此列表"
+	},
+	"removeListConfirm": {
+		"message": "确定要移除\"%s\"吗?"
+	},
+	"closeTabConfirm": {
+		"message": "确定要关闭该标签页吗?"
+	},
+	"title": {
+		"message": "标签页列表"
+	},
+	"configTitle": {
+		"message": "设置"
+	},
+	"addListButton": {
+		"message": "+ 添加列表"
+	},
+	"configButton": {
+		"message": "设置"
+	},
+	"configCategoryView": {
+		"message": "显示"
+	},
+	"configCategoryColor": {
+		"message": "标签页颜色"
+	},
+	"configCategoryConfirm": {
+		"message": "确认对话框"
+	},
+	"configCategoryReset": {
+		"message": "重置"
+	},
+	"configItemWordWrap": {
+		"message": "显示完整的标签页名称"
+	},
+	"configItemOldTabBefore": {
+		"message": ""
+	},
+	"configItemOldTabAfter": {
+		"message": "没访问的标签背景设置为深灰色"
+	},
+	"configItemOldTabTerm1": {
+		"message": "1小时"
+	},
+	"configItemOldTabTerm12": {
+		"message": "12小时"
+	},
+	"configItemOldTabTerm24": {
+		"message": "1天"
+	},
+	"configItemOldTabTerm168": {
+		"message": "7天"
+	},
+	"configItemOldTabTerm720": {
+		"message": "30天"
+	},
+	"configItemLastTab": {
+		"message": "最后打开的标签页背景设置为绿色"
+	},
+	"configItemNewTab": {
+		"message": "新建标签页背景设置为黄色"
+	},
+	"configItemCloseTab": {
+		"message": "关闭标签页前确认"
+	},
+	"configItemRemoveList": {
+		"message": "移除列表前确认"
+	},
+	"configResetButton": {
+		"message": "重置..."
+	},
+	"configResetConfirm": {
+		"message": "标签页列表内所有信息都将被删除\n打开的标签页不会被关闭"
+	},
+	"configResetDone": {
+		"message": "重置完成"
+	},
+	"configOkButton": {
+		"message": "保存"
+	},
+	"configCancelButton": {
+		"message": "取消"
+	}
+}
